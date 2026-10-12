@@ -1,0 +1,177 @@
+canonical,category,aliases,description
+Python,Programming Language,Python3|Python 3|Python2|Python 3.x,General purpose scripting programming language widely used for data science and backend automation
+Java,Programming Language,Java SE|Java EE|J2EE|Core Java|Java 8|Java 11|Java 17,Object oriented programming language for enterprise backend applications and the JVM
+JavaScript,Programming Language,JS|ECMAScript|ES6|Vanilla JS|Vanilla JavaScript,Programming language of the web used for browser scripting and server side development
+TypeScript,Programming Language,Typed JavaScript|TypeScript 5,Statically typed superset of JavaScript for large scale web applications
+C++,Programming Language,CPP|Modern C++|C++17|C++20|C plus plus,Compiled systems programming language for performance critical software
+C#,Programming Language,CSharp|C Sharp|C#.NET,Object oriented language from Microsoft used for .NET applications and games
+C,Programming Language,C programming|C language|Embedded C|C!,Low level systems programming language used for embedded software and operating systems
+Go,Programming Language,Golang|Go lang|Go language|Go!,Compiled programming language by Google for concurrent backend services and cloud tooling
+Rust,Programming Language,Rust lang|Rustlang|Rust programming,Memory safe systems programming language focused on performance and safety
+PHP,Programming Language,PHP7|PHP 8|PHP8|PHP5,Server side scripting language for web development
+Ruby,Programming Language,Ruby lang|Ruby scripting,Dynamic programming language known for developer productivity
+Kotlin,Programming Language,Kotlin JVM|Kotlin Multiplatform,Modern JVM language used for Android and backend development
+Swift,Programming Language,Swift language|SwiftUI|Swift!,Programming language by Apple for iOS and macOS applications
+Scala,Programming Language,Scala 2|Scala 3,Functional and object oriented JVM language used with big data tools
+R,Programming Language,R programming|R language|RStudio|R!,Statistical computing programming language for data analysis and visualization
+Perl,Programming Language,Perl 5|Perl scripting,Legacy scripting language for text processing and system administration
+MATLAB,Programming Language,Matlab|Simulink,Numerical computing environment for engineering and scientific computing
+COBOL,Programming Language,Cobol|COBOL programming|Mainframe COBOL,Legacy mainframe programming language used in banking and insurance systems
+Visual Basic,Programming Language,VB.NET|VB6|Visual Basic 6,Legacy Microsoft programming language for desktop business applications
+Objective-C,Programming Language,ObjC|Objective C,Legacy Apple programming language for iOS applications
+Shell Scripting,Programming Language,Bash|Bash scripting|Shell script|Shell scripts|Unix shell|Zsh,Command line scripting for automation and system administration tasks
+SQL,Programming Language,T-SQL|PL/SQL|PLSQL|Structured Query Language|SQL queries,Declarative query language for relational databases and data analysis
+WebAssembly,Programming Language,WASM|Web Assembly,Binary instruction format for running high performance code in the browser
+ActionScript,Programming Language,AS3|ActionScript 3,Legacy scripting language used for Flash applications
+Dart,Programming Language,Dart language,Programming language by Google used with Flutter for cross platform apps
+Julia,Programming Language,Julia lang|Julia language|Julia!,Programming language for high performance numerical and scientific computing
+Fortran,Programming Language,Fortran 90|Fortran77,Legacy scientific computing programming language
+React,Frontend,ReactJS|React.js|React JS|React 18|React~,JavaScript library for building user interfaces and component based frontends
+Angular,Frontend,Angular 2|Angular 14|Angular 15|Angular 16|Angular 17|Angular CLI,TypeScript web application framework for single page frontends
+AngularJS,Frontend,Angular.js|Angular JS|Angular 1.x,Legacy JavaScript frontend framework version one
+Vue,Frontend,Vue.js|VueJS|Vue JS|Vue 3|Nuxt,Progressive JavaScript framework for building user interfaces
+Svelte,Frontend,SvelteKit,Compiler based JavaScript frontend framework
+jQuery,Frontend,JQuery|jQuery UI,Legacy JavaScript library for DOM manipulation and ajax
+Next.js,Frontend,NextJS|Next JS,React framework for server side rendering and full stack web apps
+Redux,Frontend,Redux Toolkit|Redux Saga,State management library for JavaScript frontends
+HTML/CSS,Frontend,HTML|HTML5|CSS|CSS3|HTML and CSS|SASS|SCSS|Sass/SCSS,Markup and styling languages for building web pages
+Tailwind CSS,Frontend,Tailwind|TailwindCSS,Utility first CSS framework for responsive user interface styling
+Bootstrap,Frontend,Bootstrap 4|Bootstrap 5|Twitter Bootstrap,CSS framework for responsive web layouts
+Webpack,Frontend,Webpack 5|Vite|Rollup,JavaScript module bundler and frontend build tooling
+Flash,Frontend,Adobe Flash|Macromedia Flash|Flash Player|Flash!,Legacy browser plugin for animation and rich internet applications
+Silverlight,Frontend,Microsoft Silverlight,Legacy Microsoft browser plugin for rich internet applications
+Backbone.js,Frontend,BackboneJS|Backbone JS,Legacy JavaScript MVC frontend framework
+Ember.js,Frontend,EmberJS|Ember JS,JavaScript frontend framework for ambitious web applications
+React Native,Mobile,React-Native|RN,Framework for building cross platform mobile apps with React
+Flutter,Mobile,Flutter SDK,Google framework for building cross platform mobile applications with Dart
+Android Development,Mobile,Android|Android SDK|Android Studio|Android app development,Native mobile application development for Android devices
+iOS Development,Mobile,iOS|iOS SDK|Xcode|iOS app development,Native mobile application development for Apple iPhone and iPad
+Xamarin,Mobile,Xamarin Forms,Legacy Microsoft framework for cross platform mobile apps with C#
+Django,Backend & APIs,Django REST Framework|DRF|Django ORM,Python web framework for rapid backend development
+Flask,Backend & APIs,Flask API|Flask framework,Lightweight Python web microframework
+FastAPI,Backend & APIs,Fast API|FastAPI framework,Modern high performance Python framework for building APIs with type hints
+Spring,Backend & APIs,Spring Framework|Spring MVC|Spring!,Java enterprise application framework for backend services
+Spring Boot,Backend & APIs,SpringBoot|Spring-Boot,Java framework for building production ready microservices
+Node.js,Backend & APIs,NodeJS|Node JS|Node!,JavaScript runtime for server side applications and APIs
+Express.js,Backend & APIs,ExpressJS|Express JS|Express!,Minimal Node.js web server framework
+NestJS,Backend & APIs,Nest.js|Nest JS,TypeScript framework for scalable Node.js backend applications
+Ruby on Rails,Backend & APIs,Rails|RoR|Ruby Rails,Ruby web application framework for rapid development
+ASP.NET,Backend & APIs,ASP.NET Core|.NET Core|.NET|.NET Framework|dotnet,Microsoft web and backend framework for building C# applications
+Laravel,Backend & APIs,Laravel framework,PHP web application framework
+Struts,Backend & APIs,Apache Struts|Struts 2,Legacy Java web application framework
+REST API,Backend & APIs,REST|RESTful|RESTful APIs|RESTful services|REST APIs|Web APIs,Architectural style for building HTTP web service interfaces
+GraphQL,Backend & APIs,Graph QL|Apollo GraphQL,Query language for APIs that lets clients request specific data
+gRPC,Backend & APIs,Protocol Buffers|Protobuf,High performance remote procedure call framework
+SOAP,Backend & APIs,SOAP APIs|SOAP services|WSDL|XML Web Services,Legacy XML based web services protocol
+Microservices,Backend & APIs,Microservice|Microservice architecture|Service oriented architecture|SOA,Architecture of small independently deployable backend services
+PostgreSQL,Database,Postgres|PostgreSQL DB|Postgres DB|PSQL|Postgre,Open source relational database system
+MySQL,Database,My SQL|MySQL DB|Percona,Popular open source relational database
+MariaDB,Database,Maria DB,Open source relational database forked from MySQL
+MongoDB,Database,Mongo|Mongo DB|Mongoose,Document oriented NoSQL database
+Redis,Database,Redis cache|Redis DB,In memory key value data store used for caching
+Oracle Database,Database,Oracle|Oracle DB|Oracle 12c|Oracle 19c|Oracle SQL,Enterprise relational database system
+SQL Server,Database,MSSQL|MS SQL|Microsoft SQL Server|MS SQL Server,Microsoft relational database system
+SQLite,Database,SQLite3,Embedded file based relational database
+Elasticsearch,Database,Elastic Search|ELK|ELK stack|OpenSearch,Distributed search and analytics engine
+Cassandra,Database,Apache Cassandra,Distributed wide column NoSQL database
+DynamoDB,Database,Dynamo DB|AWS DynamoDB,AWS managed key value NoSQL database
+NoSQL,Database,NoSQL databases|Non-relational databases,Non relational database technologies for flexible data models
+Vector Databases,Database,Vector DB|Vector database|Pinecone|Weaviate|Milvus|Chroma|pgvector|FAISS,Databases for storing embeddings and similarity search for AI applications
+AWS,Cloud,Amazon Web Services|Amazon AWS|AWS Cloud|EC2|S3,Amazon cloud computing platform with compute storage and managed services
+Azure,Cloud,Microsoft Azure|Azure Cloud|Azure DevOps,Microsoft cloud computing platform
+GCP,Cloud,Google Cloud|Google Cloud Platform|Google Cloud Services,Google cloud computing platform
+Cloud Computing,Cloud,Cloud infrastructure|Cloud platforms|Cloud services|Cloud native|Cloud-native,Delivery of computing resources over the internet including cloud architecture and migration
+Serverless,Cloud,Serverless computing|Serverless architecture|Serverless Framework,Cloud execution model where functions run without managing servers
+AWS Lambda,Cloud,Lambda functions|Azure Functions|Cloud Functions,Function as a service compute on AWS
+OpenStack,Cloud,Open Stack,Legacy open source private cloud platform
+Heroku,Cloud,Heroku platform,Platform as a service for deploying web applications
+Docker,DevOps & Infrastructure,Docker containers|Dockerfile|Docker Compose|Containerization|Containerisation|Docker Swarm,Container platform for packaging and running applications
+Kubernetes,DevOps & Infrastructure,K8s|Kube|EKS|AKS|GKE|OpenShift,Container orchestration platform for automating deployment scaling and management of containerized applications
+Jenkins,DevOps & Infrastructure,Jenkins CI|Jenkins pipelines|Jenkinsfile,Open source automation server for continuous integration pipelines
+Terraform,DevOps & Infrastructure,Terraform IaC|HashiCorp Terraform|Terragrunt,Infrastructure as code tool for provisioning cloud resources declaratively
+GitHub Actions,DevOps & Infrastructure,Github Action|GitHub Workflows,Continuous integration and workflow automation service on GitHub
+GitLab CI,DevOps & Infrastructure,GitLab CI/CD|GitLab pipelines|GitLab,Continuous integration service built into GitLab
+CI/CD,DevOps & Infrastructure,CI CD|Continuous Integration|Continuous Delivery|Continuous Deployment|Build pipelines|Deployment pipelines,Automated build test and deployment pipelines for software delivery
+Ansible,DevOps & Infrastructure,Ansible playbooks,Agentless configuration management and automation tool
+Puppet,DevOps & Infrastructure,Puppet Enterprise|Puppet!,Legacy configuration management tool
+Chef,DevOps & Infrastructure,Chef Infra|Chef cookbooks|Chef!,Legacy configuration management tool using Ruby recipes
+Helm,DevOps & Infrastructure,Helm charts,Package manager for Kubernetes applications
+Argo CD,DevOps & Infrastructure,ArgoCD|GitOps|Flux CD,GitOps continuous delivery tool for Kubernetes
+Prometheus,DevOps & Infrastructure,Prometheus monitoring,Open source metrics monitoring and alerting system
+Grafana,DevOps & Infrastructure,Grafana dashboards,Dashboards and visualization for monitoring metrics
+Datadog,DevOps & Infrastructure,Datadog APM|New Relic|Dynatrace,Cloud monitoring and observability platform
+Observability,DevOps & Infrastructure,OpenTelemetry|Distributed tracing|Application monitoring,Monitoring logging and tracing of production systems
+Splunk,DevOps & Infrastructure,Splunk Enterprise|Splunk SIEM,Platform for searching monitoring and analyzing machine data and logs
+Linux,DevOps & Infrastructure,Linux administration|Linux Server|Ubuntu|RHEL|Red Hat|CentOS|Unix,Open source operating system for servers and infrastructure
+Nginx,DevOps & Infrastructure,NGINX|Apache HTTP Server|HAProxy,Web server and reverse proxy
+Git,DevOps & Infrastructure,GitHub|Version control|Source control|Git version control|Bitbucket,Distributed version control system for source code
+Subversion,DevOps & Infrastructure,SVN|Apache Subversion,Legacy centralized version control system
+Infrastructure as Code,DevOps & Infrastructure,IaC|Infrastructure-as-Code|CloudFormation|ARM templates|Pulumi,Managing infrastructure through declarative code and automation
+Istio,DevOps & Infrastructure,Service mesh|Envoy|Linkerd,Service mesh for managing microservice traffic on Kubernetes
+Vagrant,DevOps & Infrastructure,Vagrant boxes,Legacy tool for building local virtual machine environments
+VMware,DevOps & Infrastructure,vSphere|VMware ESXi|Hyper-V,Server virtualization platform for on premise infrastructure
+Windows Server,DevOps & Infrastructure,Active Directory|Windows Server 2012|Windows Server 2016|IIS,Microsoft server operating system and directory services
+Machine Learning,AI & Machine Learning,ML|Machine-Learning|Machine learning models|Predictive modeling|Predictive models|Supervised learning,Algorithms that learn patterns from data to make predictions
+Deep Learning,AI & Machine Learning,DL|Deep-Learning|Neural networks|Neural network|CNN|RNN|LSTM,Multi layer neural network methods for images text and speech
+NLP,AI & Machine Learning,Natural Language Processing|Natural-Language Processing|Text mining|Text analytics|spaCy|NLTK,Computational processing and understanding of human language text
+Computer Vision,AI & Machine Learning,CV|Image recognition|Object detection|Image processing|OpenCV|Image classification,Algorithms that analyze images and video
+Generative AI,AI & Machine Learning,GenAI|Gen AI|GenerativeAI|Generative artificial intelligence|Generative models|ChatGPT|Foundation models,Models that generate text images and code from prompts
+LLMs,AI & Machine Learning,LLM|Large Language Models|Large Language Model|GPT-4|GPT|Llama|Fine-tuning LLMs,Large language models such as GPT used for text generation and reasoning
+Prompt Engineering,AI & Machine Learning,Prompt design|Prompt engineer|Prompting,Designing prompts and instructions to get reliable outputs from language models
+RAG,AI & Machine Learning,Retrieval Augmented Generation|Retrieval-Augmented Generation|Retrieval augmented,Retrieval augmented generation combining search with language model answers
+LangChain,AI & Machine Learning,Lang Chain|LlamaIndex|LangGraph,Framework for building applications and chains around language models
+AI Agents,AI & Machine Learning,Agentic AI|Agentic workflows|Autonomous agents|AI agent|Multi-agent systems|Agents framework,Autonomous systems that use language models to plan and call tools
+OpenAI API,AI & Machine Learning,OpenAI|Azure OpenAI|Anthropic API|Gemini API,Hosted API access to commercial language models
+Hugging Face,AI & Machine Learning,HuggingFace|Hugging Face Transformers|Transformers library|Transformers,Platform and library of pretrained transformer models
+TensorFlow,AI & Machine Learning,Tensorflow|TF2|TensorFlow 2|TensorFlow Lite|TFX,Google open source deep learning framework
+PyTorch,AI & Machine Learning,Pytorch|Torch|PyTorch Lightning,Open source deep learning framework popular in research
+Keras,AI & Machine Learning,Keras API,High level neural network API
+scikit-learn,AI & Machine Learning,sklearn|scikit learn|Scikit-Learn|sci-kit learn,Python library for classical machine learning algorithms
+XGBoost,AI & Machine Learning,LightGBM|Gradient boosting|CatBoost|Gradient Boosted Trees,Gradient boosted decision tree library for tabular prediction
+MLOps,AI & Machine Learning,ML Ops|Model deployment|Model serving|Model monitoring|ML pipelines|Kubeflow,Practices for deploying monitoring and operating machine learning models in production
+MLflow,AI & Machine Learning,ML flow|Weights & Biases|Experiment tracking,Platform for tracking machine learning experiments and models
+Reinforcement Learning,AI & Machine Learning,RL|Deep reinforcement learning|Q-learning,Learning methods where agents learn by reward from interaction
+Pandas,AI & Machine Learning,pandas library|Pandas DataFrame|DataFrames,Python library for data manipulation and analysis
+NumPy,AI & Machine Learning,Numpy|NumPy/SciPy|SciPy,Python library for numerical computing
+Statistics,Data & Analytics,Statistical analysis|Statistical modeling|Statistical modelling|Hypothesis testing|Regression analysis,Statistical methods for inference and modeling
+A/B Testing,Data & Analytics,AB testing|A/B tests|Experimentation|Split testing,Controlled experiments to compare product variants
+Apache Spark,Data & Analytics,Spark|PySpark|Spark SQL|Spark Streaming|Spark!,Distributed data processing engine for big data analytics
+Hadoop,Data & Analytics,Apache Hadoop|HDFS|Hive!|Pig!|HBase|Cloudera,Legacy distributed big data storage and processing framework
+MapReduce,Data & Analytics,Map Reduce|Map-Reduce,Legacy distributed batch data processing model
+Apache Kafka,Data & Analytics,Kafka|Kafka Streams|Confluent|Event streaming|Pub/Sub|RabbitMQ|Kinesis,Distributed event streaming platform for real time data pipelines
+Apache Airflow,Data & Analytics,Airflow|Airflow DAGs|Dagster|Prefect,Workflow orchestration platform for data pipelines
+dbt,Data & Analytics,dbt Core|dbt Cloud|Data build tool,Analytics engineering tool for transforming data in the warehouse with SQL
+Snowflake,Data & Analytics,Snowflake DB|Snowflake data warehouse|Snowpark,Cloud data warehouse platform
+Databricks,Data & Analytics,Delta Lake|Databricks Lakehouse|Lakehouse,Unified analytics platform for data engineering and machine learning
+BigQuery,Data & Analytics,Big Query|Google BigQuery,Google serverless data warehouse
+Redshift,Data & Analytics,Amazon Redshift|AWS Redshift,AWS cloud data warehouse
+ETL,Data & Analytics,ELT|Data pipelines|Data pipeline|Data integration|Informatica|Talend|SSIS|Extract Transform Load,Extracting transforming and loading data between systems
+Data Warehousing,Data & Analytics,Data warehouse|Data warehouses|Data Warehousing|DWH|OLAP,Designing and operating analytical data warehouses
+Data Modeling,Data & Analytics,Data modelling|Dimensional modeling|Star schema|Schema design,Designing data schemas and dimensional models
+Power BI,Data & Analytics,PowerBI|Microsoft Power BI|DAX,Microsoft business intelligence and reporting tool
+Tableau,Data & Analytics,Tableau Desktop|Tableau Server|Qlik|QlikView,Business intelligence and data visualization tool
+Looker,Data & Analytics,LookML|Looker Studio|Google Data Studio|Metabase,Business intelligence platform for analytics dashboards
+Data Visualization,Data & Analytics,Data visualisation|Dashboards|Dashboarding|Matplotlib|Seaborn|Plotly|D3.js,Presenting data with charts and dashboards
+Excel,Data & Analytics,Microsoft Excel|MS Excel|Excel VBA|Spreadsheets|Pivot tables|Excel!,Spreadsheet software for data analysis and reporting
+Penetration Testing,Cybersecurity,Pen testing|Pentesting|Ethical hacking|Red team|Red teaming|Burp Suite|Metasploit,Authorized simulated attacks to find security weaknesses
+SIEM,Cybersecurity,Security Information and Event Management|QRadar|Microsoft Sentinel|Security monitoring,Security information and event management for threat detection
+Incident Response,Cybersecurity,IR|Incident handling|Digital forensics|Forensics|Security incidents,Detecting containing and recovering from security incidents
+IAM,Cybersecurity,Identity and Access Management|Identity management|Okta|SSO|Single sign-on|OAuth|OAuth2|SAML,Managing user identities authentication and access permissions
+Zero Trust,Cybersecurity,Zero-Trust|Zero Trust Architecture|ZTNA,Security model that verifies every access request regardless of network location
+OWASP,Cybersecurity,OWASP Top 10|Application security|AppSec|Secure coding,Application security practices and common web vulnerability standards
+DevSecOps,Cybersecurity,Shift-left security|SAST|DAST|Security automation,Integrating security testing into continuous delivery pipelines
+Network Security,Cybersecurity,Firewalls|Firewall|IDS/IPS|Intrusion detection|VPN|TCP/IP|Palo Alto|Cisco,Protecting networks with firewalls intrusion detection and secure connectivity
+Vulnerability Management,Cybersecurity,Vulnerability assessment|Vulnerability scanning|Nessus|Qualys|CVE,Identifying and remediating software and infrastructure vulnerabilities
+Threat Intelligence,Cybersecurity,Threat hunting|Threat detection|MITRE ATT&CK|Malware analysis|Threat modeling,Collecting and analyzing adversary tactics to detect and prevent attacks
+Cloud Security,Cybersecurity,AWS security|Azure security|Cloud security posture|CSPM|CNAPP,Securing cloud workloads configurations and identities
+Compliance,Cybersecurity,SOC 2|ISO 27001|GDPR|HIPAA|PCI DSS|NIST|Security compliance|Risk management,Meeting security regulations and audit frameworks
+Encryption,Cybersecurity,Cryptography|PKI|TLS|SSL|Key management,Protecting data with cryptography and key management
+Agile,Practices & Tools,Agile methodology|Agile methodologies|Agile development|Kanban,Iterative software development methodology
+Scrum,Practices & Tools,Scrum Master|Scrum methodology|Sprint planning|Sprints,Agile framework with sprints and ceremonies
+JIRA,Practices & Tools,Jira|Atlassian Jira|Confluence,Issue tracking and project management tool
+Unit Testing,Practices & Tools,Unit tests|Pytest|JUnit|Jest|Mocha|Automated testing|Test automation,Writing automated tests to verify code behavior
+Selenium,Practices & Tools,Selenium WebDriver|Selenium Grid,Browser automation tool for end to end testing
+End-to-End Testing,Practices & Tools,E2E testing|End to end testing|Cypress|Playwright|Puppeteer,Automated browser based testing of complete user workflows
+Test-Driven Development,Practices & Tools,TDD|Test Driven Development|BDD|Behavior-driven development,Writing tests before implementation code
+System Design,Practices & Tools,Systems design|Distributed systems|Scalable systems|High availability|Architecture design,Designing scalable reliable distributed software systems
+Design Patterns,Practices & Tools,Object oriented design|OOP|OOD|SOLID principles|Object-oriented programming,Reusable solutions and principles for object oriented software design

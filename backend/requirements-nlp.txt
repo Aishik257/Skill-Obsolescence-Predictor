@@ -1,0 +1,2 @@
+# Optional: neural semantic similarity layer (downloads a model from Hugging Face on first use)
+sentence-transformers>=3.0

@@ -1,0 +1,7 @@
+.venv
+.git
+**/node_modules
+**/__pycache__
+frontend/dist
+.env
+backend/app/ml/models/*.joblib
